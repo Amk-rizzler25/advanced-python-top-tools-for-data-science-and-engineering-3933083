@@ -14,10 +14,11 @@ data = {
 }
 
 # 1. Create a DataFrame from the data object
+df=pd/dataframe(data)
 
 
 # 2. Display the DataFrame
-
+print(df)
 
 # 3. Using describe() and info()
 
